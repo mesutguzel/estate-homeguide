@@ -1,19 +1,19 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'firstpage.dart';
-import 'secondpage.dart';
-import 'thirdpage.dart';
-import 'fourthpage.dart';
-import 'fifthpage.dart';
-import 'sixthpage.dart';
-import 'seventhpage.dart';
-import 'eigthpage.dart';
-import 'ninthpage.dart';
-import 'tenthpage.dart';
-import 'eleventhpage.dart';
-import 'twelwethpage.dart';
-import 'thirteenthpage.dart';
+import 'Learn_what_you_can_afford.dart';
+import 'Pre_approval.dart';
+import 'Refine_your_home_search.dart';
+import 'Tour_Homes.dart';
+import 'Start_on_an_offer.dart';
+import 'Finalize_on_the_offer.dart';
+import 'Transfer_Initial_Deposit.dart';
+import 'Schedule_inspection.dart';
+import 'Finalize_your_loan.dart';
+import 'Status_Certificate.dart';
+import 'Transfer_title.dart';
+import 'Perform_walkthrough.dart';
+import 'Key_handoff.dart';
 
 
 
